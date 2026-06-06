@@ -9,4 +9,4 @@ Tracking daily learning and consistency
 
 ### Day 2 (June 7)
 - Topic: 2-pointer
-- Problems Solved: 3
+- Problems Solved: 4
