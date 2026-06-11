@@ -23,3 +23,7 @@ Tracking daily learning and consistency
 ### Day 5 (June 10)
 - Topic: SLIDING WINDOW
 - Problems Solved: 4
+
+### Day 6 (June 11)
+- Topic: BINARY SEARCH
+- Problems Solved:7
