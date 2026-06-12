@@ -27,3 +27,13 @@ Tracking daily learning and consistency
 ### Day 6 (June 11)
 - Topic: BINARY SEARCH
 - Problems Solved:7
+
+
+### Day 7 (June 12)
+- Topic: Recursion
+- Problems Solved:4
+
+
+
+
+
