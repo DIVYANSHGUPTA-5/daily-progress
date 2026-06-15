@@ -15,7 +15,7 @@ Tracking daily learning and consistency
 - Topic: 2 pointers
 - Problems Solved: 5
 
-### Day 4 (June 9)
+ ### Day 4 (June 9)
 - Topic: arrays
 - Problems Solved: 7
 
