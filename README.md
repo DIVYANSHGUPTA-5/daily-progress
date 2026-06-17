@@ -44,6 +44,11 @@ Tracking daily learning and consistency
 
 
 ### Day 10 (June 16)
-Topic: BIT MANIPULATION
-Problems Solved: 3
+-Topic: BIT MANIPULATION
+-Problems Solved: 3
+
+
+### Day 11 (June 17)
+-Topic: TREES
+-Problems Solved: 6
 
