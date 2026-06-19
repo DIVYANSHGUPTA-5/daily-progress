@@ -52,3 +52,11 @@ Tracking daily learning and consistency
 - Topic: TREES
 - Problems Solved: 6
 
+### Day 12 (June 18)
+- Topic: TREES
+- Problems Solved: 3
+
+### Day 13 (June 19)
+- Topic: TREES
+- Problems Solved: 5
+
