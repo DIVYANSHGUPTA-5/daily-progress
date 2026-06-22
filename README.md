@@ -61,13 +61,17 @@ Tracking daily learning and consistency
 - Problems Solved: 5
 
 
-### Day 14 (June 2
+### Day 14 (June 20)
 - Topic: TREES
 - Problems Solved: 3
 
 ### Day 15 (June 21)
 - Topic: STACK
 - Problems Solved: 4
+
+### Day 16 (June 22)
+- Topic: STACK
+- Problems Solved: 3
 
 
 
