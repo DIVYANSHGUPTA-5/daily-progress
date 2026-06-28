@@ -77,7 +77,11 @@ Tracking daily learning and consistency
 ### Day 17 (June 24)
 - Topic: backend revison
 
-### Day 18 (June 26)
+### Day 18 (June 27)
+- Topic: backend project
+
+
+### Day 19 (June 28)
 - Topic: backend project
 
 
