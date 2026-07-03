@@ -102,6 +102,9 @@ Tracking daily learning and consistency
 ### Day 23 (July 2)
 - Topic: React revison
 
+### Day 24 (July 3)
+- Topic: React revison
+
 
 
 
