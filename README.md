@@ -16,7 +16,7 @@ Tracking daily learning and consistency
 - Problems Solved: 5
 
 ### Day 4 (June 9)
-- Topic: arrays
+- Topic: array
 - Problems Solved: 7
 
 
