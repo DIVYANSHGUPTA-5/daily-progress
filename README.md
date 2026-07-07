@@ -113,6 +113,9 @@ Tracking daily learning and consistency
 - Topic: priority queue
 - Problems Solved: 2
 
+### Day 26 (July 7)
+- Topic: Python
+
 
 
 
