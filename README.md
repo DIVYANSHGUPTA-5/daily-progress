@@ -109,12 +109,15 @@ Tracking daily learning and consistency
 - Topic: PRIORITY QUEUE
 
 
-### Day 26 (June 6)
+### Day 26 (July 6)
 - Topic: priority queue
 - Problems Solved: 2
 
 ### Day 26 (July 7)
 - Topic: Python
+
+### Day 27 (July 8)
+- Topic: PYTHON
 
 
 
