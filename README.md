@@ -116,7 +116,10 @@ Tracking daily learning and consistency
 ### Day 26 (July 7)
 - Topic: Python
 
-### Day 27 (July 8)
+### Day 27 (July 9)
+- Topic: PYTHON
+
+### Day 28(July 10)
 - Topic: PYTHON
 
 
