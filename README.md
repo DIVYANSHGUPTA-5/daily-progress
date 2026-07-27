@@ -123,7 +123,7 @@ Tracking daily learning and consistency
 - Topic: PYTHON
 
 ### Day 29(July 12)
-- Topic: PYTHON
+- Topic: PYTHOn
 
 
 
