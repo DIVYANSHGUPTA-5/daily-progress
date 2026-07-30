@@ -123,7 +123,11 @@ Tracking daily learning and consistency
 - Topic: PYTHON
 
 ### Day 29(July 12)
-- Topic: PYTHOn
+- Topic: PYTHON
+
+
+### Day 30 (30 july)
+- Topic: Interview preparation
 
 
 
