@@ -129,6 +129,9 @@ Tracking daily learning and consistency
 ### Day 30 (30 july)
 - Topic: Interview preparation
 
+### Day 31 (7 AUG)
+- Topic: BACKTRACKING
+
 
 
 
