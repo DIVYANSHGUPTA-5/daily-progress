@@ -132,6 +132,9 @@ Tracking daily learning and consistency
 ### Day 31 (7 AUG)
 - Topic: BACKTRACKING
 
+### Day 32 (19 AUG)
+- Topic:DP
+
 
 
 
